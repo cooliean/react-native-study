@@ -1,5 +1,5 @@
 ###修改端口方法：
-包服务器的默认启动的端口是8081，如果你想修改端口要修改一下地方：
+React Native 包服务器的默认启动的端口是8081，如果你想修改端口要修改一下地方：
 
 
 1、找到项目目录下的node_moudles/react-native/packager/packager.js
