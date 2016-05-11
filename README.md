@@ -1,6 +1,9 @@
 ###修改端口方法：
 React Native 包服务器的默认启动的端口是8081，如果你想修改端口要修改一下地方：
 
+	react-native start --port 9988
+	https://github.com/facebook/react-native/blob/master/local-cli/server/server.js#L30
+
 
 1、找到项目目录下的**node_moudles/react-native/local-cli/server/server.js**
 
